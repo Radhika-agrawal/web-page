@@ -1,0 +1,49 @@
+body {
+  background: url(img/wall.webp) no-repeat center center fixed;
+  background-size: cover;
+  font-family: sans-serif;
+}
+/* amin content of the webpage */
+.container {
+  width: 40%;
+  margin: auto;
+  overflow: hidden;
+  padding: 1rem;
+  background-color: white;
+  border-radius: 2pc;
+  text-align: center;
+  margin-top: 10rem;
+}
+/* for horizontal line */
+hr {
+  width: 80%;
+}
+/* facebook button */
+.fb {
+  padding: 0.5rem 2rem;
+  color: #fff;
+  background-color: #426782;
+  border: none;
+  border-radius: 5px;
+}
+
+/* text decorator */
+a {
+  text-decoration: none;
+}
+.container input[type="checkbox"] {
+  padding: 0.5rem;
+  width: 70%;
+}
+.container input[type="checkbox"] {
+  width: auto;
+}
+
+.btn {
+  padding: 1rem;
+  background-color: #2ecc71;
+  font-size: 1rem;
+  width: 50%;
+  border-radius: 5px;
+  border: none;
+}
